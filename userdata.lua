@@ -1,8 +1,8 @@
 local using = {
 	["RealKazanir"] = true,
-	["JustSt3ong"] = true,
-	["GenThunderStuck"] = true,
-	["Threel3ss"] = true
+	["JustSt3ong"] = false,
+	["GenThunderStuck"] = false,
+	["Threel3ss"] = false
 }
 
 return using
