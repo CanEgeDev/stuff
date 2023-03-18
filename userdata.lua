@@ -1,6 +1,6 @@
 local using = {
-	["RealKazanir"] = true,
-	["JustSt3ong"] = true,
+	["RealKazanir"] = false,
+	["JustSt3ong"] = false,
 	["GenThunderStuck"] = false,
 	["Threel3ss"] = false
 }
